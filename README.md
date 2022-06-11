@@ -1,4 +1,4 @@
-# Numerical_model_of_heat_equation-
+# Numerical_model_of_heat_equation
 Numerical model of the heat equation
 
 Temperature $ \to T = f(x,t)[ºC]$
