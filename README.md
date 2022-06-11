@@ -1,11 +1,11 @@
-# Numerical_model_of_heat_equation
+# Numerical model of heat equation
 Numerical model of the heat equation
 
-Temperature $ \to T = f(x,t)[ºC]$
+Temperature $ \LARGE\to T = f(x,t)[ºC]$
 
-Time $\to t[s]$
+Time $\LARGE\to t[s]$
 
-Thermal diffusivity $\to \alpha[\frac{m^2}{s}]$
+Thermal diffusivity $\LARGE\to \alpha=\frac{k}{\rho c_p}[\frac{m^2}{s}]$
 
 
 $$\LARGE\nabla^{2}T+\frac{q}{k}=\frac{1}{\alpha}\frac{\partial T}{\partial t}$$
