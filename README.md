@@ -15,9 +15,6 @@ $$\frac{\partial^2 T}{\partial x^2}+\frac{\partial^2 T}{\partial y^2}+\frac{\par
 $$\frac{\partial^2 T}{\partial x^2}+\frac{q}{k}=\frac{1}{\alpha}\frac{\partial T}{\partial t}$$
 
 
-$$\frac{k}{c_p\rho}\underbrace{\frac{\partial^2 T}{\partial x^2}}_{difcentral}+\frac{q}{c_p\rho} = \underbrace{\frac{\partial T}{\partial t}} $$
-
-
-$$\frac{k}{c_p\rho}\underbrace{\frac{\partial^2 T}{\partial x^2}}_{dif.central}+\frac{q}{c_p\rho}=\underbrace{\frac{\partial T}{\partial t}}_{dif.progr}$$
+$$\frac{k}{c_p\rho}\underset{difcentral}{\underbrace{\frac{\partial^2 T}{\partial x^2}}}+\frac{q}{c_p\rho} = \underset{dif.progr.}{\underbrace{\frac{\partial T}{\partial t}}}$$
 
 
