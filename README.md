@@ -21,6 +21,7 @@ $$\LARGE\frac{k}{c_p\rho}\frac{T_{m+1,p}-2T_{m,p}+T_{m-1,p}}{\Delta x^2} +\frac{
 
 Multiplicando a toda la expresión anterior por k y llamando a $\LARGE\lambda=\frac{\alpha\Delta t}{\Delta x^2}$ se obtiene:
 
+$$\LARGE\lambda (T_{m+1,p}-2T_{m,p}+T_{m-1,p})+\frac{q\Delta t}{c_p\rho} = T_{m,p+1}-T_{m,p}$$
 
-
+$$\boxed{\LARGE T_{m,p+1}=\lambda (T_{m+1,p}-2T_{m,p}+T_{m-1,p})+\frac{q\Delta t}{c_p\rho}+T_{m,p}}$$
 
